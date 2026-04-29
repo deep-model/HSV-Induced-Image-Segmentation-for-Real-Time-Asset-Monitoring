@@ -19,7 +19,7 @@ n)
 HSV-based image segmentation is a powerful and efficient computer vision technique for monitoring asset performance which provides unsupervised and supervised AI rationalization in real-time using thermal forward-looking infrared (FLIR) imagery. Unlike traditional RGB color spaces, HSV (Hue, Saturation, Value) image segmentation separates color information from intensity, making it highly effective for isolating thermal signatures associated with fluid levels, surface temperatures, and structural variations which can be applied to liquid terminal storage tanks and many additional asset monitoring applications. 
 
 ## HSV-Induced Image Segmentation Process
-The figure below illustrates the HSV image segmentation process for HSV-based image analysis which generally consists of folliwng steps:
+The figure below illustrates the HSV image segmentation process for HSV-based image analysis which generally consists of following steps:
 
 1. Capture the video frame or still image to input for processing.
 2. Analyze the image and extract hue, saturation, and values for pre-processing.
