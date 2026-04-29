@@ -57,4 +57,4 @@ In real-time applications, HSV image processing can be integrated with live came
 <img width="800" height="600" alt="image" src="https://github.com/deep-model/HSV-Induced-Image-Segmentation-for-Real-Time-Asset-Monitoring/blob/main/7%20-%20Tank%20Asset%20Integrity%20Monitoring%20with%20HSV%20Induced%20Segmentation.png"/>
 
 ## Conclusion
-While HSV-based segmentation does not provide absolute temperature measurements unless radiometric data is available, it offers a robust method for relative thermal analysis and trend detection. When combined with historical baselines and process knowledge, computer vision based HSV analysis enables predictive insights into process and asset behavior, improving operational safety, reliability, and efficiency
+While HSV-based segmentation does not provide absolute temperature measurements unless radiometric data is available, it offers a robust method for relative thermal analysis and trend detection. When combined with historical baselines and process knowledge, computer vision based HSV analysis enables predictive insights into process and asset behavior, improving operational safety, reliability, and efficiency.
